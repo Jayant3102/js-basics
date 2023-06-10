@@ -1,0 +1,1 @@
+"# all these code snippets moved to git hub."
